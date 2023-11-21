@@ -100,7 +100,7 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.heading}>SQLite Example</Text>
+      <Text style={styles.heading}>SQLite Todo App</Text>
 
       {Platform.OS === "web" ? (
         <View

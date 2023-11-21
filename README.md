@@ -1,4 +1,4 @@
-# SQLite Example
+# Expo React Native Todo App
 
 <p>
   <!-- iOS -->
