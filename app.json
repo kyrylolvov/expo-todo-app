@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "9bd89adf-5003-4fb4-9af2-087f59665b65"
+      }
+    },
+    "owner": "kyrylolvov",
+    "slug": "todo-list"
+  }
+}
